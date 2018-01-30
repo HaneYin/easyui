@@ -6,7 +6,7 @@
         version="3.0"
         metadata-complete="true">
 
-    <display-name>perfect-ssm</display-name>
+    <display-name>easyui</display-name>
     <welcome-file-list>
         <welcome-file>index.html</welcome-file>
     </welcome-file-list>

@@ -9,8 +9,8 @@
 
 
     <title>登录</title>
-    <meta name="keywords" content="perfect-ssm">
-    <meta name="description" content="perfect-ssm">
+    <meta name="keywords" content="easyui">
+    <meta name="description" content="easyui">
 
     <link href="css/bootstrap.min14ed.css" rel="stylesheet">
     <link href="css/font-awesome.min93e3.css" rel="stylesheet">

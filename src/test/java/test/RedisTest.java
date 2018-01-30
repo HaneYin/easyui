@@ -23,7 +23,7 @@ public class RedisTest {
     @Test
     public void redisPutTest() {
         //添加
-        redisUtil.put("name", "perfect-ssm");
+        redisUtil.put("name", "easyui");
     }
 
     @Test
@@ -45,7 +45,7 @@ public class RedisTest {
         stringList.add("github");
         stringList.add("13");
         stringList.add("cnblog");
-        stringList.add("perfect-ssm");
+        stringList.add("easyui");
         //添加
         redisUtil.put("stringList", stringList);
     }

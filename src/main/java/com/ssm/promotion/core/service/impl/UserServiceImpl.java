@@ -11,11 +11,6 @@ import org.springframework.stereotype.Service;
 import com.ssm.promotion.core.dao.UserDao;
 import com.ssm.promotion.core.service.UserService;
 
-/**
- * @author 1034683568@qq.com
- * @project_name perfect-ssm
- * @date 2017-3-1
- */
 @Service("userService")
 public class UserServiceImpl implements UserService {
 
