@@ -24,9 +24,9 @@ import java.util.Map;
 @Controller
 @RequestMapping("/articles")
 public class ArticleController {
+	
     @Resource
     private ArticleService articleService;
-    private static final long serialVersionUID = 1L;
     private static final Logger log = Logger.getLogger(ArticleController.class);// 日志文件
 
     /**
