@@ -20,6 +20,8 @@ function login() {
                 setCookie("userName", result.data.currentUser.userName);
                 setCookie("roleName", result.data.currentUser.roleName);
                 window.location.href = "main.jsp";
+            } else {
+            	alert(result.message);
             }
         },
         error: function () {
